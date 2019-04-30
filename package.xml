@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>talk_listen</name>
+  <name>ros_talk_listen</name>
   <version>0.0.0</version>
   <description>The talk_listen package</description>
 

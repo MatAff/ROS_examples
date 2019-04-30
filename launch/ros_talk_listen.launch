@@ -1,0 +1,5 @@
+<launch>
+    <node name="talker" pkg="ros_talk_listen" type="talk.py" output="screen" />
+    <node name="listener" pkg="ros_talk_listen" type="listen.py" output="screen" />
+</launch>
+

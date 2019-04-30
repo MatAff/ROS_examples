@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(talk_listen)
+project(ros_talk_listen)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
 # add_compile_options(-std=c++11)
